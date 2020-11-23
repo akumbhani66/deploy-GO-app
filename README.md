@@ -1,1 +1,2 @@
-# deploy-GO-app
+# deploy Go app for production
+
